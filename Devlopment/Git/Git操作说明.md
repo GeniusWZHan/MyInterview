@@ -41,6 +41,6 @@ git log --oneline // 查看提交记录 只看一行
 
 ```java
 ## ？？
-git reset --hard HEAD~1 //？？	
+git reset --hard HEAD~1 //？？	?
 ```
 
